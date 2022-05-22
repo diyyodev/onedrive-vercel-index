@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Diyyo Drakor",
+  title: "Drakor Diyyo",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/drakor',
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'Telegram',
-      link: 'https://t.me/googledevgroups',
+      link: 'https://t.me/DrakorDiyyo',
     },
   ],
 
